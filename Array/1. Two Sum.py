@@ -11,3 +11,4 @@ class Solution:
             if target-j in d:
                 return [d[target-j],i]
             d[j]=i
+print("hi")
