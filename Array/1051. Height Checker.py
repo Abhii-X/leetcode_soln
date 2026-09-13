@@ -32,3 +32,4 @@ class Solution:
             if heights[i]!=l[i]:
                 count+=1
         return count
+#height check
