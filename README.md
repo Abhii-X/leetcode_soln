@@ -33,10 +33,12 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Abhii-X/leetcode_soln/tree/master/0187-repeated-dna-sequences) |
+| [0383-ransom-note](https://github.com/Abhii-X/leetcode_soln/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Abhii-X/leetcode_soln/tree/master/0187-repeated-dna-sequences) |
+| [0383-ransom-note](https://github.com/Abhii-X/leetcode_soln/tree/master/0383-ransom-note) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -61,4 +63,8 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Abhii-X/leetcode_soln/tree/master/0187-repeated-dna-sequences) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Abhii-X/leetcode_soln/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
