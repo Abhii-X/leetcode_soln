@@ -34,11 +34,13 @@
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Abhii-X/leetcode_soln/tree/master/0187-repeated-dna-sequences) |
 | [0383-ransom-note](https://github.com/Abhii-X/leetcode_soln/tree/master/0383-ransom-note) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Abhii-X/leetcode_soln/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## String
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Abhii-X/leetcode_soln/tree/master/0187-repeated-dna-sequences) |
 | [0383-ransom-note](https://github.com/Abhii-X/leetcode_soln/tree/master/0383-ransom-note) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Abhii-X/leetcode_soln/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -47,6 +49,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Abhii-X/leetcode_soln/tree/master/0187-repeated-dna-sequences) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Abhii-X/leetcode_soln/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -67,4 +70,5 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Abhii-X/leetcode_soln/tree/master/0383-ransom-note) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Abhii-X/leetcode_soln/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
