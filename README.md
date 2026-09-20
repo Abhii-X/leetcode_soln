@@ -6,6 +6,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Abhii-X/leetcode_soln/tree/master/0169-majority-element) |
 | [0896-monotonic-array](https://github.com/Abhii-X/leetcode_soln/tree/master/0896-monotonic-array) |
+| [2706-buy-two-chocolates](https://github.com/Abhii-X/leetcode_soln/tree/master/2706-buy-two-chocolates) |
 ## Math
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Abhii-X/leetcode_soln/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhii-X/leetcode_soln/tree/master/0451-sort-characters-by-frequency) |
+| [2706-buy-two-chocolates](https://github.com/Abhii-X/leetcode_soln/tree/master/2706-buy-two-chocolates) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -113,4 +115,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Abhii-X/leetcode_soln/tree/master/0451-sort-characters-by-frequency) |
+## Greedy
+|  |
+| ------- |
+| [2706-buy-two-chocolates](https://github.com/Abhii-X/leetcode_soln/tree/master/2706-buy-two-chocolates) |
 <!---LeetCode Topics End-->
