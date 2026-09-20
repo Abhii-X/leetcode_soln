@@ -119,4 +119,8 @@
 |  |
 | ------- |
 | [2706-buy-two-chocolates](https://github.com/Abhii-X/leetcode_soln/tree/master/2706-buy-two-chocolates) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Abhii-X/leetcode_soln/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
