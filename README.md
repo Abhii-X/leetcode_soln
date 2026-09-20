@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Abhii-X/leetcode_soln/tree/master/0292-nim-game) |
+| [0633-sum-of-square-numbers](https://github.com/Abhii-X/leetcode_soln/tree/master/0633-sum-of-square-numbers) |
 ## Brainteaser
 |  |
 | ------- |
@@ -86,4 +87,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhii-X/leetcode_soln/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Abhii-X/leetcode_soln/tree/master/0633-sum-of-square-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Abhii-X/leetcode_soln/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
