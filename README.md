@@ -37,12 +37,14 @@
 | [0169-majority-element](https://github.com/Abhii-X/leetcode_soln/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Abhii-X/leetcode_soln/tree/master/0187-repeated-dna-sequences) |
 | [0383-ransom-note](https://github.com/Abhii-X/leetcode_soln/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/Abhii-X/leetcode_soln/tree/master/0451-sort-characters-by-frequency) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Abhii-X/leetcode_soln/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## String
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Abhii-X/leetcode_soln/tree/master/0187-repeated-dna-sequences) |
 | [0383-ransom-note](https://github.com/Abhii-X/leetcode_soln/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/Abhii-X/leetcode_soln/tree/master/0451-sort-characters-by-frequency) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhii-X/leetcode_soln/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Abhii-X/leetcode_soln/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Bit Manipulation
@@ -75,6 +77,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Abhii-X/leetcode_soln/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Abhii-X/leetcode_soln/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/Abhii-X/leetcode_soln/tree/master/0451-sort-characters-by-frequency) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Abhii-X/leetcode_soln/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Divide and Conquer
 |  |
@@ -84,6 +87,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhii-X/leetcode_soln/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/Abhii-X/leetcode_soln/tree/master/0451-sort-characters-by-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -101,4 +105,12 @@
 |  |
 | ------- |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhii-X/leetcode_soln/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Abhii-X/leetcode_soln/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Abhii-X/leetcode_soln/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
