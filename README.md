@@ -12,6 +12,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/Abhii-X/leetcode_soln/tree/master/0292-nim-game) |
 | [0633-sum-of-square-numbers](https://github.com/Abhii-X/leetcode_soln/tree/master/0633-sum-of-square-numbers) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Abhii-X/leetcode_soln/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Brainteaser
 |  |
 | ------- |
@@ -128,4 +129,8 @@
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Abhii-X/leetcode_soln/tree/master/3498-reverse-degree-of-a-string) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Abhii-X/leetcode_soln/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
