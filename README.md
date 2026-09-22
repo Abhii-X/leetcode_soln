@@ -133,4 +133,12 @@
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Abhii-X/leetcode_soln/tree/master/1401-circle-and-rectangle-overlapping) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Abhii-X/leetcode_soln/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Abhii-X/leetcode_soln/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
