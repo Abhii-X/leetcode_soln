@@ -6,6 +6,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Abhii-X/leetcode_soln/tree/master/0169-majority-element) |
 | [0896-monotonic-array](https://github.com/Abhii-X/leetcode_soln/tree/master/0896-monotonic-array) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Abhii-X/leetcode_soln/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2706-buy-two-chocolates](https://github.com/Abhii-X/leetcode_soln/tree/master/2706-buy-two-chocolates) |
 ## Math
 |  |
@@ -41,6 +42,7 @@
 | [0383-ransom-note](https://github.com/Abhii-X/leetcode_soln/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhii-X/leetcode_soln/tree/master/0451-sort-characters-by-frequency) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Abhii-X/leetcode_soln/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Abhii-X/leetcode_soln/tree/master/2053-kth-distinct-string-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -49,6 +51,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Abhii-X/leetcode_soln/tree/master/0451-sort-characters-by-frequency) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhii-X/leetcode_soln/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Abhii-X/leetcode_soln/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Abhii-X/leetcode_soln/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Abhii-X/leetcode_soln/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
@@ -82,6 +85,7 @@
 | [0383-ransom-note](https://github.com/Abhii-X/leetcode_soln/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhii-X/leetcode_soln/tree/master/0451-sort-characters-by-frequency) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Abhii-X/leetcode_soln/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Abhii-X/leetcode_soln/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
