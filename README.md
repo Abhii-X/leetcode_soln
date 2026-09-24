@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Abhii-X/leetcode_soln/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/Abhii-X/leetcode_soln/tree/master/0169-majority-element) |
 | [0896-monotonic-array](https://github.com/Abhii-X/leetcode_soln/tree/master/0896-monotonic-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Abhii-X/leetcode_soln/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -107,6 +108,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Abhii-X/leetcode_soln/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Abhii-X/leetcode_soln/tree/master/0633-sum-of-square-numbers) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhii-X/leetcode_soln/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Binary Search
