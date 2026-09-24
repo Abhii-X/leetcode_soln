@@ -8,12 +8,14 @@
 | [0896-monotonic-array](https://github.com/Abhii-X/leetcode_soln/tree/master/0896-monotonic-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Abhii-X/leetcode_soln/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2706-buy-two-chocolates](https://github.com/Abhii-X/leetcode_soln/tree/master/2706-buy-two-chocolates) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhii-X/leetcode_soln/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Abhii-X/leetcode_soln/tree/master/0292-nim-game) |
 | [0633-sum-of-square-numbers](https://github.com/Abhii-X/leetcode_soln/tree/master/0633-sum-of-square-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Abhii-X/leetcode_soln/tree/master/1401-circle-and-rectangle-overlapping) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhii-X/leetcode_soln/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Brainteaser
 |  |
 | ------- |
