@@ -41,6 +41,7 @@
 | [0187-repeated-dna-sequences](https://github.com/Abhii-X/leetcode_soln/tree/master/0187-repeated-dna-sequences) |
 | [0383-ransom-note](https://github.com/Abhii-X/leetcode_soln/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhii-X/leetcode_soln/tree/master/0451-sort-characters-by-frequency) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Abhii-X/leetcode_soln/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Abhii-X/leetcode_soln/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Abhii-X/leetcode_soln/tree/master/2053-kth-distinct-string-in-an-array) |
 ## String
@@ -50,6 +51,7 @@
 | [0383-ransom-note](https://github.com/Abhii-X/leetcode_soln/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhii-X/leetcode_soln/tree/master/0451-sort-characters-by-frequency) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhii-X/leetcode_soln/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Abhii-X/leetcode_soln/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Abhii-X/leetcode_soln/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Abhii-X/leetcode_soln/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Abhii-X/leetcode_soln/tree/master/3498-reverse-degree-of-a-string) |
