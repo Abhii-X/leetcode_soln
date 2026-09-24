@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abhii-X/leetcode_soln/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhii-X/leetcode_soln/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/Abhii-X/leetcode_soln/tree/master/0169-majority-element) |
 | [0896-monotonic-array](https://github.com/Abhii-X/leetcode_soln/tree/master/0896-monotonic-array) |
@@ -40,6 +41,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abhii-X/leetcode_soln/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Abhii-X/leetcode_soln/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Abhii-X/leetcode_soln/tree/master/0187-repeated-dna-sequences) |
 | [0383-ransom-note](https://github.com/Abhii-X/leetcode_soln/tree/master/0383-ransom-note) |
