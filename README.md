@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Abhii-X/leetcode_soln/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhii-X/leetcode_soln/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Abhii-X/leetcode_soln/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/Abhii-X/leetcode_soln/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/Abhii-X/leetcode_soln/tree/master/0169-majority-element) |
 | [0896-monotonic-array](https://github.com/Abhii-X/leetcode_soln/tree/master/0896-monotonic-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Abhii-X/leetcode_soln/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhii-X/leetcode_soln/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/Abhii-X/leetcode_soln/tree/master/0066-plus-one) |
 | [0292-nim-game](https://github.com/Abhii-X/leetcode_soln/tree/master/0292-nim-game) |
 | [0633-sum-of-square-numbers](https://github.com/Abhii-X/leetcode_soln/tree/master/0633-sum-of-square-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Abhii-X/leetcode_soln/tree/master/1401-circle-and-rectangle-overlapping) |
