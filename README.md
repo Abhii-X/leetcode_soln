@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Abhii-X/leetcode_soln/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhii-X/leetcode_soln/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Abhii-X/leetcode_soln/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Abhii-X/leetcode_soln/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Abhii-X/leetcode_soln/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/Abhii-X/leetcode_soln/tree/master/0169-majority-element) |
 | [0896-monotonic-array](https://github.com/Abhii-X/leetcode_soln/tree/master/0896-monotonic-array) |
@@ -121,6 +122,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Abhii-X/leetcode_soln/tree/master/0035-search-insert-position) |
 | [0633-sum-of-square-numbers](https://github.com/Abhii-X/leetcode_soln/tree/master/0633-sum-of-square-numbers) |
 ## String Matching
 |  |
