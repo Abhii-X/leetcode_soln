@@ -44,3 +44,30 @@ class Solution:
                 tail.next=new_node
                 tail=tail.next
         return root
+
+
+#ANOTHER APPROACH:
+
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def middleNode(self, head: ListNode | None) -> ListNode | None:
+        count=1
+        root = head
+        while root.next is not None:
+            count+=1
+            root=root.next
+        print(count)
+        curr=head
+        a=0
+        while curr is not None:
+            if a==count//2:
+                head=curr
+                break
+            else:
+                a+=1
+                curr=curr.next
+        return head
