@@ -8,3 +8,4 @@ class Solution:
         for i in str(a):
             b.append(int(i))
         return b
+        ml
