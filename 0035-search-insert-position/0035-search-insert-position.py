@@ -16,3 +16,4 @@ class Solution:
             else:
                 i=mid+1
         return i if target not in nums else i-1
+        iogtrji
