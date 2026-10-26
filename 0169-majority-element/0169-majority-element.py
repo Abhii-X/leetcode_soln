@@ -7,3 +7,6 @@ class Solution:
         for i,j in f.items():
             if j>len(nums)//2:
                 return i
+
+
+b
