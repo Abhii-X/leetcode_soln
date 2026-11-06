@@ -8,5 +8,4 @@ class Solution:
             if j>len(nums)//2:
                 return i
 
-
-bcxghcgh
+wqjfqwpjf
