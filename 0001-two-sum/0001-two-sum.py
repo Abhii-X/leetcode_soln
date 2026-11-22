@@ -4,3 +4,4 @@ class Solution:
             for j in range(i):
                 if nums[i]+nums[j]==target:
                     return [i,j]
+cvb
