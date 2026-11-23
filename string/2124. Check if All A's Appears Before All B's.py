@@ -1,0 +1,42 @@
+'''
+
+Example 1:
+
+Input: s = "aaabbb"
+Output: true
+Explanation:
+The 'a's are at indices 0, 1, and 2, while the 'b's are at indices 3, 4, and 5.
+Hence, every 'a' appears before every 'b' and we return true.
+Example 2:
+
+Input: s = "abab"
+Output: false
+Explanation:
+There is an 'a' at index 2 and a 'b' at index 1.
+Hence, not every 'a' appears before every 'b' and we return false.
+Example 3:
+
+Input: s = "bbb"
+Output: true
+Explanation:
+There are no 'a's, hence, every 'a' appears before every 'b' and we return true.'''
+
+Link:https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/description/
+
+#Code:
+
+class Solution:
+    def checkString(self, s: str) -> bool:
+        x,y=0,0
+        for i in s:
+            if i=='b':
+                break
+            else:
+                x+=1
+        for i in s:
+            if i=='a':
+                y+=1
+        if x==y:
+            return True
+        else:
+            return False
